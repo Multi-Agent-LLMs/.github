@@ -1,4 +1,3 @@
-# .github
 # Multi-Agent LLMs Group
 
 Welcome to the Multi-Agent LLMs Group! We are a community focused on the development, collaboration, and innovative use of multi-agent large language models (LLMs). Our mission is to advance the understanding, state-of-the-art and application of multi-agent systems in AI.
